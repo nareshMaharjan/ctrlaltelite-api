@@ -1,4 +1,10 @@
 /target/
+/.vscode/
+.classpath
+
+### Visual Studio Code ###
+.project
+*.prefs
 
 ### IntelliJ IDEA ###
 .idea
