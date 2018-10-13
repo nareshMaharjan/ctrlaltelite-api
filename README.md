@@ -12,6 +12,3 @@ This application is running on Heroku at the follwing link.
 
 # Helpful Links
 [Spring Working with SQL Database](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html)
-
-
-test change
